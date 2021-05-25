@@ -7,8 +7,8 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="acd87aef-6575-4f5e-ad01-75b8785a12d4"
-    Publisher="CN=romaclac"
+    Name="App1"
+    Publisher="CN=Contoso Software (FOR LAB USE ONLY), O=Contoso Corporation, C=US"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="acd87aef-6575-4f5e-ad01-75b8785a12d4" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
