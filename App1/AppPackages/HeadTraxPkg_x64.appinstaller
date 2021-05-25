@@ -3,13 +3,13 @@
 	Uri="https://royappauthtest.blob.core.windows.net/$web/content/HeadTraxPkg_x64.appinstaller"
 	Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2021">
 	<UpdateUris>
-		<UpdateUri>\\DESKTOP-HGBA5H9\AppInstaller_Test\HeadtraxPkg_x64.appinstaller</UpdateUri>
+		<UpdateUri>https://royappauthtest.blob.core.windows.net/$web/content/HeadTraxPkg_x64.appinstaller</UpdateUri>
 	</UpdateUris>
 	<MainPackage
 		Name="HeadTraxPkg"
 		Version="1.0.1.0"
 		Publisher="CN=Contoso Software (FOR LAB USE ONLY), O=Contoso Corporation, C=US"
-		Uri="https://royappauthtest.blob.core.windows.net/$web/content/HeadTraxPkg_1.0.1.0_x64.msix"
+		Uri="https://github.com/RDMacLachlan/App1/blob/master/App1/AppPackages/HeadTraxPkg_1.0.1.0_x64.msix"
 		ProcessorArchitecture="x64" />
 	<UpdateSettings>
 		<OnLaunch
