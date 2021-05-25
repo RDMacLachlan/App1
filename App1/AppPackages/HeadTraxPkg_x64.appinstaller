@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://royappauthtest.blob.core.windows.net/$web/content/HeadTraxPkg_x64.appinstaller"
+	Uri="https://github.com/RDMacLachlan/App1/blob/master/App1/AppPackages/HeadTraxPkg_x64.appinstaller"
 	Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2021">
 	<UpdateUris>
-		<UpdateUri>https://royappauthtest.blob.core.windows.net/$web/content/HeadTraxPkg_x64.appinstaller</UpdateUri>
+		<UpdateUri>https://github.com/RDMacLachlan/App1/blob/master/App1/AppPackages/HeadTraxPkg_x64.appinstaller</UpdateUri>
 	</UpdateUris>
 	<MainPackage
 		Name="HeadTraxPkg"
