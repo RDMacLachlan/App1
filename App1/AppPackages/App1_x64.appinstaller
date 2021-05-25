@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://github.com/RDMacLachlan/App1/blob/master/App1/AppPackages/App1_x64.appinstaller"
+	Uri="https://raw.githubusercontent.com/RDMacLachlan/App1/master/App1/AppPackages/App1_x64.appinstaller?token=AOG5IBLEOKKR5MOGLYGE34DAVU77E"
 	Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainPackage
 		Name="App1"
